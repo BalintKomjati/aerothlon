@@ -1,4 +1,8 @@
 
+
+https://user-images.githubusercontent.com/47415815/139555322-f39ce781-b0f6-4b89-ac9b-48fd2ffb9ad8.mp4
+
+
 # An animated visualization of digital elevation data with satellite overlay and GPS tracklogs
 
 ## Intro
