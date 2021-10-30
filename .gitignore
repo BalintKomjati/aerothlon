@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-mapbox_key.txt
+annex/
+data/igc
 *.mp4
