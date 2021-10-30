@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+mapbox_key.txt
+*.mp4
