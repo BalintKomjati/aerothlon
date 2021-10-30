@@ -1,11 +1,7 @@
-README
-================
 
 # Animated visualization of digital elevation data in R with satellite overlay and GPS tracklogs
 
-
-https://user-images.githubusercontent.com/47415815/139556600-15f502df-a3ab-4b67-8073-825972a3e752.mp4
-
+<https://user-images.githubusercontent.com/47415815/139556600-15f502df-a3ab-4b67-8073-825972a3e752.mp4>
 
 ## Intro
 
