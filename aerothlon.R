@@ -56,7 +56,7 @@
 # 3. Calculate Elevation Matrix ----
     tic()
     message("Calculate elevation matrix") 
-    elmat = matrix(
+    elmat <- matrix(
       raster::extract(dem, raster::extent(dem), method = 'bilinear'),
       nrow = ncol(dem),
       ncol = nrow(dem)
