@@ -62,7 +62,7 @@ You also need to register at <https://www.mapbox.com/> for a free api
 key to download custom overlay images (a low quality demo overlay is
 included)
 
-The scrip above is designed to work with a list of tracklogs however
+The script above is designed to work with a list of tracklogs however
 for this demo it is supplied with only one. Since it was a paragliding
 competition the logs are in igc format. The script should work well with
 gpx files also. I preformatted the igc\_demo file e.g. adjusted the
